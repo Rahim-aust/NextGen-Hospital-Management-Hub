@@ -6,7 +6,7 @@
 
 This is a software development group project developed by using JAVA.
 
-To know more about featutres and get a live demo visit the following link: https://youtu.be/XpuZyGGBjrk
+To know more about featutres and get a live demo visit the following link: https://www.youtube.com/watch?v=5JaldU0_lF8
 ![image](https://user-images.githubusercontent.com/66373332/236643311-ebfa923a-6ecc-47e6-b6b0-54a44e53ca06.png)
 ![image](https://user-images.githubusercontent.com/66373332/236643316-229dc686-1a56-44cf-b8dd-c481c5792d61.png)
 ![image](https://user-images.githubusercontent.com/66373332/236643320-aa4b901a-8d3f-4329-916f-2b103c72eea0.png)
